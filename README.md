@@ -2,7 +2,7 @@
 
 <h3 align="center">ENG</h3>
 <h5 align="center">Name: yoo hyun jae</h5>
-<h5 align="center">Age: 17 (2006 years born)</h5>
+<h5 align="center">Age: 19 (2006 years born)</h5>
 <h5 align="center">Birthday: 09/12</h5>
 <h5 align="center">Gender: male</h5> <br>
 
