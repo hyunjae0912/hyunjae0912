@@ -31,7 +31,7 @@
  <img src="https://img.shields.io/badge/Java-cc0000?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp <br>
- <img src="https://img.shields.io/badge/OrCAD-be2323?style=flat-square&logo=orcad&logoColor=white"/></a>&nbspnbsp
+ <img src="https://img.shields.io/badge/OrCAD-be2323?style=flat-square&logo=orcad&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=white"/></a>&nbsp <br>
  <img src="https://img.shields.io/badge/virtualbox-183a61?style=flat-square&logo=virtualbox&logoColor=white"/></a>&nbsp 
 </p>
