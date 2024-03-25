@@ -13,7 +13,7 @@
 <h5 align="center">성별: 남자</h5><br>
 
  <div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh0829&count_bg=%230084FB&title_bg=%23000000&icon=linux.svg&icon_color=%23FFFFFF&title=Join%21&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjae0912%2Fhit-counter&count_bg=%2321251D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AA%85%EB%A1%9D&edge_flat=false"/></a>
  </div>
 
 <h3 align="center">Tech Stack</h3>
