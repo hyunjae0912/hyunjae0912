@@ -35,3 +35,5 @@
  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=white"/></a>&nbsp <br>
  <img src="https://img.shields.io/badge/virtualbox-183a61?style=flat-square&logo=virtualbox&logoColor=white"/></a>&nbsp 
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjae0912&layout=compact&theme=vision-friendly-dark)
