@@ -7,10 +7,10 @@
 <h5 align="center">Gender: male</h5> <br>
 
 <h3 align="center">KOR</h3>
-<h5 align="center">이름: 유현재</h5>
-<h5 align="center">나이: 19 (2006년생)</h5>
-<h5 align="center">생일: 09/12</h5>
-<h5 align="center">성별: 남자</h5><br>
+<h5 align="center">이름:  유현재 </h5>
+<h5 align="center">나이:  19  (2006년생)</h5>
+<h5 align="center">생일:  09/12 </h5>
+<h5 align="center">성별:  남자 </h5><br>
 
  <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjae0912%2Fhit-counter&count_bg=%2321251D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AA%85%EB%A1%9D&edge_flat=false"/></a>
