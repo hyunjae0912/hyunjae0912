@@ -8,7 +8,7 @@
 
 <h3 align="center">KOR</h3>
 <h5 align="center">이름:  유현재 </h5>
-<h5 align="center">나이:  19  (2006년생)</h5>
+<h5 align="center">나이:  19세  (2006년생)</h5>
 <h5 align="center">생일:  09/12 </h5>
 <h5 align="center">성별:  남자 </h5><br>
 
