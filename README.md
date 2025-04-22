@@ -4,5 +4,7 @@
 - ☕ 여유롭게 살기 위해 노력중입니다.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=WELCOME"/>
 </p>
+
+
