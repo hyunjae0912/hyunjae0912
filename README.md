@@ -2,3 +2,7 @@
 
 - 💻 천천히 꿈을 찾아가는 개발자입니다.
 - ☕ 여유롭게 살기 위해 노력중입니다.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+</p>
